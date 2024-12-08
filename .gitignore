@@ -4,3 +4,5 @@ qa_evaluation_results.csv
 .qa_evaluation_results
 highest_ranked_answers.csv
 'comparative_analysis_USA vs. Australia.csv'
+.venv
+.DS_Store
